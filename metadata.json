@@ -1,0 +1,6 @@
+{
+  "name": "Cẩm Nang Pháp Luật An Ninh Mạng Việt Nam",
+  "description": "Nền tảng phổ biến pháp luật an ninh mạng, tra cứu các hành vi bị nghiêm cấm, quy định trách nhiệm người dùng mạng xã hội, phòng chống lừa đảo và kiểm tra rủi ro nội dung số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
